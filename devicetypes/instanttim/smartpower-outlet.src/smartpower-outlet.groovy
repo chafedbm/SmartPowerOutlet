@@ -17,7 +17,7 @@
 
 metadata {
 	// Automatically generated. Make future change here.
-	definition (name: "SmartPower Outlet (Preferences)", namespace: "instanttim", author: "Timothy Martin") {
+	definition (name: "SmartPower-Outlet", namespace: "instanttim", author: "Timothy Martin") {
 		capability "Actuator"
 		capability "Switch"
 		capability "Power Meter"
